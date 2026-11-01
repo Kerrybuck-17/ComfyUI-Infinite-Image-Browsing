@@ -1,4 +1,4 @@
-[project]
+﻿[project]
 name = "comfyui-infinite-image-browsing"
 version = "1.0.0"
 description = "DeepSeek port of sd-webui-infinite-image-browsing for ComfyUI: native multi-tab image browser with tags, search, stats, organize, favorites, drag-to-compare and native workflow loading."
@@ -16,5 +16,6 @@ Repository = "https://github.com/Kerrybuck-17/ComfyUI-Infinite-Image-Browsing"
 [tool.comfy]
 PublisherId = "kerrybuck-17"
 DisplayName = "Infinite Image Browsing"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/Kerrybuck-17/ComfyUI-Infinite-Image-Browsing/main/assets/icon.png"
 requires-comfyui = ">=0.3.40"
+
