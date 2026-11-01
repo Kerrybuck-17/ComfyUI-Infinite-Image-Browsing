@@ -1,0 +1,20 @@
+[project]
+name = "comfyui-infinite-image-browsing"
+version = "1.0.0"
+description = "DeepSeek port of sd-webui-infinite-image-browsing for ComfyUI: native multi-tab image browser with tags, search, stats, organize, favorites, drag-to-compare and native workflow loading."
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+keywords = ["comfyui", "image-browser", "gallery", "tags", "infinite-scroll", "iib"]
+authors = [{ name = "DeepSeek port" }]
+
+[project.urls]
+Repository = "https://github.com/Kerrybuck-17/ComfyUI-Infinite-Image-Browsing"
+"Original project" = "https://github.com/zanllp/infinite-image-browsing"
+
+[tool.comfy]
+PublisherId = "kerrybuck-17"
+DisplayName = "Infinite Image Browsing"
+Icon = ""
+requires-comfyui = ">=0.3.40"
