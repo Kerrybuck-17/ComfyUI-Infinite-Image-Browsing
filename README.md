@@ -60,7 +60,7 @@ TikTok 式整屏滚动，右上角按钮进入，支持刷新与随机；索引�
 
 ### 通过 ComfyUI Manager
 
-在 Manager 中搜索 **Infinite Image Browsing** 安装（发布后可用），或：
+在 Manager 中搜索 **Infinite Image Browsing** 安装，或打开 [Comfy Registry 页面](https://registry.comfy.org/nodes/comfyui-infinite-image-browsing)。
 
 ### 手动安装
 
